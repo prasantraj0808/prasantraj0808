@@ -60,6 +60,6 @@
 <table>
   <tr>
    
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasantraj0808&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasantraj0808&show_icons=true&theme=dark&locale=en&layout=compact" alt="Prasant Raj" /></td>
   </tr>
 </table>
